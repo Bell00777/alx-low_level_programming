@@ -16,8 +16,4 @@ void print_alphabet_x10(void)
 		_putchar('\n');
 	}
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privac
+
